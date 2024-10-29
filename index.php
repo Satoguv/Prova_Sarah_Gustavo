@@ -8,6 +8,6 @@
 <body>
     <h1>SARAH & GUSTAVO</h1>
     <img src="Imagens/pizza.png">
-    <a href="cadastros.php">Acessar os cadastros</a>
+
 </body>
 </html>
