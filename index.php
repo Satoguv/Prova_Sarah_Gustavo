@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>SARAH & GUSTAVO</h1>
+    <img src="Imagens/pizza.png">
 </body>
 </html>
